@@ -55,3 +55,24 @@ ul li {
     margin-bottom: 10px;
     line-height: 1.6;
 }
+
+.userdata-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.userdata-btn:hover {
+    background-color: #218838;
+}
+
+.btn-link {
+    text-decoration: none;
+}
+
